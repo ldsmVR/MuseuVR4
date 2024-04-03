@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - teleporte
+  - colisao
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - canvaControle
+  - Water
+  - UI
+  - Cubo1
+  - Cubo2
+  - Cubo3
+  - Cubo4
+  - Teleporte
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

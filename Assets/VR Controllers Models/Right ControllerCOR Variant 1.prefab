@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2570297634819082417
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 362997044914328018, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: Right ControllerCOR Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 362997044914328018, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 456310460923851278, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: AnelInterno
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0095
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0066
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0402
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1027470865816800104, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1618915884306914567, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: btnB
+      objectReference: {fileID: 0}
+    - target: {fileID: 1618915884306914567, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1779686558932287425, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2257118484506980303, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: LateralGrip
+      objectReference: {fileID: 0}
+    - target: {fileID: 2257118484506980303, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3275371313813975668, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: AnelExterno
+      objectReference: {fileID: 0}
+    - target: {fileID: 3436922505622511152, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3821703248651579290, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: BtnA
+      objectReference: {fileID: 0}
+    - target: {fileID: 5712812362698985715, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: Trig
+      objectReference: {fileID: 0}
+    - target: {fileID: 5712812362698985715, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6411598812397462765, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: Joystick
+      objectReference: {fileID: 0}
+    - target: {fileID: 6859912017039252319, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: CorpoTopo
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492754563398501908, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: Grip
+      objectReference: {fileID: 0}
+    - target: {fileID: 7492754563398501908, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8002612317369168621, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: CorpoJoystick
+      objectReference: {fileID: 0}
+    - target: {fileID: 8002612317369168621, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8547527473220375318, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: OculusStore
+      objectReference: {fileID: 0}
+    - target: {fileID: 8547527473220375318, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793047813269611276, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_Name
+      value: CapaPilha
+      objectReference: {fileID: 0}
+    - target: {fileID: 8793047813269611276, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28b07dcc4b66a094f9592ac279c1bebd, type: 3}
