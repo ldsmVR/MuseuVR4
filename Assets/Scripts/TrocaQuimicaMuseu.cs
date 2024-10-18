@@ -11,7 +11,7 @@ public class TrocaQuimicaMuseu : MonoBehaviour
     public void Quimica()
     {
         SceneManager.LoadScene(scene);
-        Destroy(DeviceSimulator);
+        //Destroy(DeviceSimulator);
     }
 
     

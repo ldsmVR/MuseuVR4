@@ -45,13 +45,13 @@ public class ResetarColisao : MonoBehaviour
 
     public void OnCollisionStay(Collision collision)
     {
-        Debug.Log("Valor da mask de colisao" + collision.gameObject.layer);
-        Debug.Log("Valor da mask escolida" + lmask.value);
+        //Debug.Log("Valor da mask de colisao" + collision.gameObject.layer);
+       // Debug.Log("Valor da mask escolida" + lmask.value);
 
         if (collision.gameObject.tag == "colisao" || collision.gameObject.tag == "limiteChao")
         {
 
-            Debug.Log("Colidiu!");
+            //Debug.Log("Colidiu!");
             if (canReset)
             {
                 fonte.PlayOneShot(som);

@@ -5,28 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/Interacao.unity
     guid: 557c3b6e04015bd45aa1aa283b16a8fe
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/MovimentoContinuo.unity
     guid: e597290ff6b9429469c9f1705530ca7e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/Raio.unity
     guid: 220d66758d0ba3a4b80cbec6df70ef8c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/Teleporte.unity
     guid: 36a562319b390a949bcac578c251a7b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TesteVisao.unity
     guid: c953c543119a9f641b6a72abd79fe328
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/Totem.unity
     guid: e016dc3134d65714091793cc7f3a2c8b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/TutorialTeste.unity
     guid: d657276a29315c2459b160423fe00231
   - enabled: 1
@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Quimica.unity
     guid: 367b8ce5875108b45918c1c6236a202b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial/TesteVisaoControle.unity
     guid: d86620ddb4a49f14d80db275359cf4c1
   m_configObjects:
